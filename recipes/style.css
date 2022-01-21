@@ -1,0 +1,40 @@
+/*Styles for BAM Recipe Webpages */
+
+body
+{
+    background-color: rgba(87, 3, 3, 0.795);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+h1 {
+    background-color: purple;
+}
+
+h3 {
+    background-color: salmon;
+}
+
+ol, ul
+{
+text-align: left;
+}
+
+#potato{
+    height: auto;
+    width: 200px;
+}
+
+/* BAM logo and colors*/
+.bam
+{
+    font-size: 40px;
+    background-color: chocolate;
+    color: navy;
+}
